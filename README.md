@@ -1,12 +1,10 @@
 # myNano
-## Project - Open Source Contribution
-GNU Nano project with a feature added by me.
+GNU Nano editor with a feature added by me.
 On opening a directory, nano will display the list of files and folders in the directory and allow us to navigate through the folders until we select a file.
 
-## Title of the project : Implement File/Folder browsing in GNU nano text editor.
-## Name : Pranav Joglekar
-## MIS : 111708027
-## Description : When opening a directory in nano, the original behaviour is it displays an error message saying the file we opened is an 
+## Implement File/Folder browsing in GNU nano text editor.
+## Description : 
+When opening a directory in nano, the original behaviour is it displays an error message saying the file we opened is an 
 directory and it opens a new blank buffer. After my changes, on opening a directory, it displays the contents of the current directory 
 and allows to navigate through the directories. Use the UP/DOWN arrow keys to select a file/directory and ENTER to open the selected 
 directory. Use LEFT/RIGHT arrow keys to move to the last/next visited directory.(Similar to history)
