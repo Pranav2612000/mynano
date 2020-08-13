@@ -1,0 +1,5 @@
+sudo apt-get install libncurses5-dev libncursesw5-dev
+sudo apt-get install texinfo
+sudo apt-get install autoconf
+sudo apt-get install autotools-dev
+sudo apt-get install automake

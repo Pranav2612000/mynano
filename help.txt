@@ -1,0 +1,4 @@
+GNU nano 3.1 source code taken from : https://ftp.gnu.org/gnu/nano/
+Benno Schulenberg (nano maintainer) - Basic help in understanding nano.
+Stack Overflow - to learn about stat() and dirent.h functions
+man pages, https://linux.die.net/man/ - manual pages of all functions used. e.g. - opendir(), stat() etc.
